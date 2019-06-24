@@ -1,2 +1,2 @@
 # Git-github
-my new repository for project
+my new repository for project.
